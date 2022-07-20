@@ -1,10 +1,6 @@
 ## PATIKA.DEV-SQL-HW-1
 
-<br>
-
 ## [Patka.dev](https://www.patika.dev/tr)
-
-<br>
 
 ---
 
